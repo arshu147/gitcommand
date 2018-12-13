@@ -1,0 +1,22 @@
+ Volume in drive H is Java-Sel
+ Volume Serial Number is 9AEF-0689
+
+ Directory of H:\jenkinsgit\uds
+
+13-12-2018  12:42    <DIR>          .
+13-12-2018  12:42    <DIR>          ..
+13-12-2018  12:19               367 .classpath
+13-12-2018  12:41    <DIR>          .git
+13-12-2018  12:18               379 .project
+13-12-2018  12:18    <DIR>          .settings
+13-12-2018  12:19    <DIR>          bin
+13-12-2018  12:26    <DIR>          lib
+13-12-2018  12:30                 0 New Text Document.txt
+13-12-2018  12:42                 0 new.txt
+13-12-2018  12:26    <DIR>          one
+13-12-2018  12:32                58 run.bat
+13-12-2018  12:18    <DIR>          src
+13-12-2018  12:20    <DIR>          test-output
+13-12-2018  12:25               280 testng.xml
+               6 File(s)          1,084 bytes
+               9 Dir(s)  20,756,213,760 bytes free
